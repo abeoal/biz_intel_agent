@@ -2,10 +2,6 @@ import os
 import os
 from dotenv import load_dotenv
 
-
-TELEGRAM_NEWS_TOKEN = "8094377979:AAGFs-xQaKzkmqbNjiSJ0moTbA-lqx010kg"
-TELEGRAM_ADVISOR_TOKEN = "7303509852:AAFvGx2CDrscGvjxJT5MoHIwezyha9hH4Fs"
-
 # config/settings.py
 # config/settings.py
 
